@@ -139,7 +139,7 @@ pip install torch --index-url https://download.pytorch.org/whl/cpu
 Также рядом должна находиться папка с обученной моделью:
 
 ```text
-address_ner_rubert_conversational_v2/
+address_ner_rubert_conversational_v1/
 ```
 
 Папка модели должна содержать файлы HuggingFace-модели:
