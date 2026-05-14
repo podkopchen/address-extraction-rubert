@@ -16,7 +16,7 @@ from openpyxl.utils import get_column_letter
 
 BASE_DIR = Path(__file__).resolve().parent
 
-MODEL_DIR = BASE_DIR / "address_ner_rubert_conversational_v2"
+MODEL_DIR = BASE_DIR / "address_ner_rubert_conversational_v1"
 INPUT_FILE = BASE_DIR / "Обращения_Адрес_район_округ_очищено.xlsx"
 OUTPUT_FILE = BASE_DIR / "Результат_RuBERT_адреса.xlsx"
 
